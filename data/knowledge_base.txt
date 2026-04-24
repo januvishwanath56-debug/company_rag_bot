@@ -1,0 +1,119 @@
+TECHCORP CUSTOMER SUPPORT KNOWLEDGE BASE
+==========================================
+
+SECTION 1: PRODUCTS & PRICING
+-------------------------------
+
+Q: What products does TechCorp offer?
+A: TechCorp offers three main products:
+   - TechCorp Basic: $9/month - Includes 5 user accounts, 10GB storage, email support
+   - TechCorp Pro: $29/month - Includes 20 user accounts, 100GB storage, priority support, API access
+   - TechCorp Enterprise: $99/month - Unlimited users, 1TB storage, 24/7 dedicated support, custom integrations
+
+Q: Is there a free trial available?
+A: Yes, TechCorp offers a 14-day free trial for all plans. No credit card is required to start the trial. After 14 days, you can choose a paid plan or your account will be paused.
+
+Q: Can I upgrade or downgrade my plan?
+A: Yes, you can upgrade or downgrade your plan at any time from your account settings. Upgrades take effect immediately. Downgrades take effect at the start of your next billing cycle.
+
+Q: Are there any annual discounts?
+A: Yes, if you choose annual billing you get 2 months free (equivalent to about 17% discount). Annual plans are available for all three tiers.
+
+Q: What payment methods are accepted?
+A: TechCorp accepts Visa, Mastercard, American Express, and PayPal. For Enterprise customers, we also accept bank transfers and purchase orders.
+
+SECTION 2: ACCOUNT & LOGIN
+----------------------------
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your email address and you will receive a reset link within 5 minutes. Check your spam folder if you don't see it. The reset link expires after 24 hours.
+
+Q: How do I change my email address?
+A: Log in to your account, go to Settings > Profile > Contact Information and update your email. You will receive a verification email at the new address. Click the link to confirm the change.
+
+Q: Can I have multiple users on one account?
+A: Yes. Basic allows up to 5 users, Pro allows up to 20 users, and Enterprise allows unlimited users. The account owner can add users from Settings > Team Members > Invite User.
+
+Q: What do I do if my account is locked?
+A: Accounts get locked after 5 failed login attempts. Wait 30 minutes for automatic unlock, or contact support at support@techcorp.com with your account email to unlock immediately.
+
+Q: How do I delete my account?
+A: Go to Settings > Account > Danger Zone > Delete Account. Note that account deletion is permanent and all data will be removed within 30 days. We recommend exporting your data before deleting.
+
+SECTION 3: BILLING & REFUNDS
+------------------------------
+
+Q: When am I charged?
+A: You are charged on the same date every month (or year for annual plans) from the date you first subscribed. You will receive an invoice by email before each charge.
+
+Q: How do I get a refund?
+A: TechCorp offers a 30-day money-back guarantee for new subscriptions. Contact support@techcorp.com within 30 days of your first payment with your account email and reason for refund. Refunds are processed within 5-7 business days.
+
+Q: Why was I charged twice?
+A: This can happen if a payment failed and was retried. Please contact support@techcorp.com with your account email and transaction details. We will investigate and refund any duplicate charges within 2 business days.
+
+Q: How do I update my billing information?
+A: Go to Settings > Billing > Payment Method and click "Update". You can add a new card or change your PayPal account. The new payment method will be used for your next billing cycle.
+
+Q: Can I get an invoice for my company?
+A: Yes. Go to Settings > Billing > Invoices to download PDF invoices for any past payment. For custom invoices with your company details, contact billing@techcorp.com.
+
+SECTION 4: TECHNICAL SUPPORT
+------------------------------
+
+Q: How do I connect the TechCorp API?
+A: API access is available on Pro and Enterprise plans. Go to Settings > API > Generate Key to get your API key. Full API documentation is available at docs.techcorp.com/api. Rate limits are 1000 requests/hour for Pro and unlimited for Enterprise.
+
+Q: Why is the app running slow?
+A: Common causes are: too many browser tabs open, slow internet connection, or large data exports running in background. Try clearing your browser cache (Ctrl+Shift+Delete), use Chrome or Firefox for best performance, and avoid running large exports during peak hours.
+
+Q: How do I export my data?
+A: Go to Settings > Data > Export. You can export your data as CSV or JSON. Large exports may take up to 30 minutes and you will receive an email when the export is ready to download.
+
+Q: Is TechCorp available on mobile?
+A: Yes. TechCorp has iOS and Android apps available on the App Store and Google Play Store. The mobile app supports all core features. Some advanced settings are only available on the desktop web version.
+
+Q: What browsers are supported?
+A: TechCorp supports Chrome (version 90+), Firefox (version 88+), Safari (version 14+), and Edge (version 90+). Internet Explorer is not supported.
+
+SECTION 5: SECURITY & PRIVACY
+-------------------------------
+
+Q: Is my data secure?
+A: Yes. TechCorp uses AES-256 encryption for all stored data and TLS 1.3 for all data in transit. We are SOC 2 Type II certified and GDPR compliant. Data is stored in AWS data centers in the US and EU.
+
+Q: Where is my data stored?
+A: By default, data is stored in US-based AWS servers. Enterprise customers can request EU-only data storage for GDPR compliance. Contact support to change your data residency.
+
+Q: Does TechCorp sell my data?
+A: No. TechCorp does not sell, rent, or share your personal data with third parties for marketing purposes. Data is only shared with service providers needed to operate the platform (e.g., AWS for hosting).
+
+Q: How do I enable two-factor authentication?
+A: Go to Settings > Security > Two-Factor Authentication and click Enable. You can use Google Authenticator, Authy, or any TOTP app. Scan the QR code shown and enter the 6-digit code to confirm setup.
+
+Q: What happens to my data if I cancel?
+A: Your data is retained for 30 days after cancellation in case you want to reactivate. After 30 days, all data is permanently deleted from our servers. You can export your data at any time before cancellation.
+
+SECTION 6: INTEGRATIONS
+-------------------------
+
+Q: What integrations does TechCorp support?
+A: TechCorp integrates with: Slack (notifications), Google Workspace (login and Drive sync), Microsoft 365 (login and OneDrive sync), Zapier (automation), Salesforce (CRM sync, Enterprise only), and GitHub (Pro and Enterprise).
+
+Q: How do I connect Slack?
+A: Go to Settings > Integrations > Slack and click Connect. You will be redirected to Slack to authorize the connection. Once connected, you can choose which notifications to send to which Slack channels.
+
+Q: Is there a Zapier integration?
+A: Yes. Search for TechCorp on Zapier. Over 50 Zap templates are available. You will need your TechCorp API key (available on Pro and Enterprise plans) to connect.
+
+SECTION 7: CANCELLATION
+-------------------------
+
+Q: How do I cancel my subscription?
+A: Go to Settings > Billing > Subscription > Cancel Subscription. You will keep access until the end of your current billing period. No refunds are given for unused time on monthly plans (except within the 30-day money-back guarantee window).
+
+Q: Can I pause my subscription instead of cancelling?
+A: Yes. You can pause your subscription for up to 3 months. Go to Settings > Billing > Subscription > Pause. Your data and settings are preserved during the pause. You will not be charged during the pause period.
+
+Q: What happens to my team members if I cancel?
+A: All team members lose access when the subscription ends. The account owner should notify team members before cancelling and ensure they export any personal data they need.
